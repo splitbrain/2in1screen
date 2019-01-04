@@ -8,5 +8,5 @@ Compile and install with
     $> make
     $> sudo make install
 
-Then start ``/usr/local/bin/2in1screen`` from your ``~/.xsession`` file.
+Then start ``/usr/local/bin/2in1screen`` from your ``~/.xprofile`` file.
 
